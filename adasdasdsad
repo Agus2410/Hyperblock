@@ -1,0 +1,80 @@
+* [33mcommit 1e99f1dd37060b4a03e7432b1986b6ea85c6008d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/header[m[33m, [m[1;31morigin/footer[m[33m, [m[1;32mheader[m[33m, [m[1;32mfooter[m[33m)[m
+[31m|[m Author: Agustin Arcas <agustin.arcas999@gmail.com>
+[31m|[m Date:   Wed Jan 13 12:46:54 2021 -0300
+[31m|[m 
+[31m|[m     Cambios q nose q onda
+[31m|[m 
+* [33mcommit 3c764362b8046f6b4f6333e8fd67be7ccf01160b[m[33m ([m[1;31morigin/master[m[33m)[m
+[31m|[m Author: Agustin Arcas <agustin.arcas999@gmail.com>
+[31m|[m Date:   Mon Jan 11 16:04:31 2021 -0300
+[31m|[m 
+[31m|[m     una version 2.0
+[31m|[m 
+* [33mcommit 04bbe59423a0e320d98ebdbc5fc2629e3f0da62b[m
+[31m|[m Author: Agus2410 <77171567+Agus2410@users.noreply.github.com>
+[31m|[m Date:   Mon Jan 11 13:28:48 2021 -0300
+[31m|[m 
+[31m|[m     Cambie el titulo
+[31m|[m     
+[31m|[m     por que quiero
+[31m|[m   
+*   [33mcommit 77fcf4c4928e698ef9987943ffce7458699b461a[m
+[32m|[m[33m\[m  Merge: a513815 067a420
+[32m|[m [33m|[m Author: Agustin Arcas <agustin.arcas@>
+[32m|[m [33m|[m Date:   Fri Jan 8 16:41:44 2021 -0300
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     solucione la discordancia de dos modficaciones
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit 067a42093e8968f402e763dfb156790471f9a142[m[33m ([m[1;31morigin/cabecera[m[33m, [m[1;32mcabecera[m[33m)[m
+[32m|[m [33m|[m Author: Agustin Arcas <agustin.arcas@>
+[32m|[m [33m|[m Date:   Fri Jan 8 16:31:11 2021 -0300
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     modifique solo la cabeza y el color
+[32m|[m [33m|[m 
+* [33m|[m [33mcommit a5138150724e95b1ea39a22866c917507431c583[m
+[33m|[m[33m/[m  Author: Agustin Arcas <agustin.arcas@>
+[33m|[m   Date:   Fri Jan 8 16:35:18 2021 -0300
+[33m|[m   
+[33m|[m       agregue cambios d color tambien
+[33m|[m 
+* [33mcommit b45a17f5dd173b368976d990d8b0b1b973a56dd5[m
+[33m|[m Author: Agustin Arcas <agustin.arcas@>
+[33m|[m Date:   Fri Jan 8 16:15:22 2021 -0300
+[33m|[m 
+[33m|[m     Finalizada la cabecera con diseño amarillo
+[33m|[m 
+* [33mcommit 559b30c94ac1d016b61c5d1e144c54d05822ff46[m[33m ([m[1;33mtag: v0.1[m[33m)[m
+[33m|[m Author: Agustin Arcas <agustin.arcas@>
+[33m|[m Date:   Fri Jan 8 15:25:46 2021 -0300
+[33m|[m 
+[33m|[m     estructura inicial de la cabecera
+[33m|[m 
+* [33mcommit a6c1363a879b04b5e1c5e542e989561299061841[m
+[33m|[m Author: Agustin Arcas <agustin.arcas@>
+[33m|[m Date:   Fri Jan 8 15:21:39 2021 -0300
+[33m|[m 
+[33m|[m     debug turbio
+[33m|[m 
+* [33mcommit b15f4bc4273183fed5955c410d7a86a636d84642[m
+[33m|[m Author: Agustin Arcas <agustin.arcas@>
+[33m|[m Date:   Fri Jan 8 15:20:13 2021 -0300
+[33m|[m 
+[33m|[m     Cambios del orto q me re costaron
+[33m|[m 
+* [33mcommit 852e1134281a2420ec540b6f378163db4bb4b217[m
+[33m|[m Author: Agustin Arcas <agustin.arcas@>
+[33m|[m Date:   Thu Jan 7 13:05:21 2021 -0300
+[33m|[m 
+[33m|[m     arranco mi proyecyo real con html y css
+[33m|[m 
+* [33mcommit 456b055e23502417b51a0a7eb41e3d57a33cb657[m
+[33m|[m Author: Agustin Arcas <agustin.arcas@>
+[33m|[m Date:   Thu Jan 7 12:28:03 2021 -0300
+[33m|[m 
+[33m|[m     cambios al archivo historia para reflehar mi edad
+[33m|[m 
+* [33mcommit 0aba39695aa750106c884506b0c1e1b45361e486[m
+  Author: Agustin Arcas <agustin.arcas@>
+  Date:   Thu Jan 7 12:24:58 2021 -0300
+  
+      este es el primer commit de este archivo

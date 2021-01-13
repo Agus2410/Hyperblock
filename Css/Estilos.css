@@ -49,3 +49,8 @@ div {
     padding: 10px;
         
 } 
+IMG {
+    border-radius: 50px;
+    height: 30px;
+    padding-right: 20px;
+}   
